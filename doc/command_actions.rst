@@ -1,5 +1,12 @@
+.. _`command actions`:
+
 Command Actions
 ===============
+
+Command actions are sent by the client to instruct the server to
+perform various tasks.
+After sending a command, the client should wait to recieve one
+of the :ref:`response actions` from the server.
 
 .. toctree::
    :maxdepth: 2
