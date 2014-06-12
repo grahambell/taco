@@ -1,11 +1,11 @@
-.. _get_value:
-
-get_value
+Get value
 =========
 
-Requests the value of a variable.
-
+.. default-domain:: taco
 .. highlight:: json
+.. action:: get_value
+
+Requests the value of a variable.
 
 ::
 

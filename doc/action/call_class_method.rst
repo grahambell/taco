@@ -1,14 +1,14 @@
-.. _call_class_method:
-
-call_class_method
+Call class method
 =================
+
+.. default-domain:: taco
+.. highlight:: json
+.. action:: call_class_method
 
 Instructs the server to call the given class method.
 
-The ``context`` attribute is described on the :ref:`call_function`
+The ``context`` attribute is described on the :action:`call_function`
 page.
-
-.. highlight:: json
 
 ::
 

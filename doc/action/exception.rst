@@ -1,7 +1,9 @@
-.. _exception:
-
-exception
+Exception
 =========
+
+.. default-domain:: taco
+.. highlight:: json
+.. action:: exception
 
 The ``exception`` action signifies that an exception or error of some type
 occurred while a command action was being handled.
@@ -12,8 +14,6 @@ attempting to carry out commands.
 
 The ``message`` attribute contains a string representation of the
 error.
-
-.. highlight:: json
 
 ::
 

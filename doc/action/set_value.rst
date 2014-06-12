@@ -1,11 +1,11 @@
-.. _set_value:
-
-set_value
+Set value
 =========
 
-Sets the value of a variable.
-
+.. default-domain:: taco
 .. highlight:: json
+.. action:: set_value
+
+Sets the value of a variable.
 
 ::
 
