@@ -21,4 +21,10 @@ for each language, which should be straightforward to install,
 and its messages are designed to be generic so that they
 can be used between any combination of languages.
 
+This documentation describes the Taco system.  For a list of
+language implementations, please see the
+`Taco Homepage`_.
+
+.. _`Taco Homepage`: http://grahambell.github.io/taco/
+
 .. endtacointro
