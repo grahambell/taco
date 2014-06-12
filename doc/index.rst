@@ -1,7 +1,13 @@
 Taco Documentation
 ==================
 
-Contents:
+.. include:: ../README.rst
+    :start-after: .. starttacointro
+    :end-before: .. endtacointro
+
+
+Contents
+--------
 
 .. toctree::
    :maxdepth: 2
