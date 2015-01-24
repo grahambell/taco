@@ -17,7 +17,9 @@ of the :ref:`response actions` from the server.
    action/construct_object
    action/destroy_object
    action/get_attribute
+   action/get_class_attribute
    action/get_value
    action/import_module
    action/set_attribute
+   action/set_class_attribute
    action/set_value
